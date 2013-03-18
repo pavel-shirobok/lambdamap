@@ -1,0 +1,5 @@
+Using Java 8 lambda features for routing
+
+* Custom handler
+* Custom key
+* based on HashSet -> method point access const time 
